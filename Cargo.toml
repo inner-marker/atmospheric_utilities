@@ -1,0 +1,7 @@
+[package]
+name = "atmospheric_utilities"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+interp = "2.0.1"
