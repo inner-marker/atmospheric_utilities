@@ -1,5 +1,5 @@
 [package]
-name = "atmospheric_utilities"
+name = "us_standard_artmpsphere"
 version = "0.1.0"
 edition = "2021"
 
